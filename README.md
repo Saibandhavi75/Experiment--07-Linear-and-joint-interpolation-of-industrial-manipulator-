@@ -6,7 +6,7 @@
 ### Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform 
       
-### Theory 
+### Theory :
     The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
@@ -48,10 +48,11 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 
 ### Robot movements :
 
-![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robo3.jpeg?raw=true)
-![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robo%202.jpeg?raw=true)
-![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robo%203.jpeg?raw=true)
-![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robo%204.jpeg?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics3new.jpeg?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics4new.jpeg?raw=true)
+
+![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics1new.jpg?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics2new.jpg?raw=true)
 
 
 
