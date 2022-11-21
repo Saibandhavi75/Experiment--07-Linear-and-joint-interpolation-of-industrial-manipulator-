@@ -48,11 +48,11 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 
 ### Robot movements :
 
-![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics3new.jpeg?raw=true)
-![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics4new.jpeg?raw=true)
-
 ![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics1new.jpg?raw=true)
 ![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics2new.jpg?raw=true)
+
+![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics3new.jpeg?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/blob/main/robotics4new.jpeg?raw=true)
 
 
 
